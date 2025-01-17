@@ -1,5 +1,3 @@
-# gfg-example
+# Purpose
 
-##Test-1
-##Test-2 
-## ankit is doing great!
+a test repo for gfgsc-glau to test the git commands and other random stuff.
